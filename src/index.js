@@ -1,6 +1,9 @@
 export const vTranslitTamlScheme = {
   'about': { 'schemeCode': 'Taml', 'schemeName': 'Tamil', 'type': 'brahmic' },
   'data': {
+    'ayogavaha': [
+      '\u0b82', '\u0b83'
+    ],
     'consonants': [
       '\u0b95', '', '', '', '\u0b99',
       '\u0b9a', '', '\u0b9c', '', '\u0b9e',
@@ -22,10 +25,7 @@ export const vTranslitTamlScheme = {
     ],
     'symbols': [
       '\u0be6', '\u0be7', '\u0be8', '\u0be9', '\u0bea', '\u0beb', '\u0bec', '\u0bed', '\u0bee', '\u0bef',
-      '', '', '\u0bd0', '', '\u0b82', '\u0b83', '',
-    ],
-    'virama': [
-      '\u0bcd'
+      '', '', '\u0bd0', '', '',
     ],
     'vowelMarks': [
       '', '\u0bbe', '\u0bbf', '\u0bc0', '\u0bc1', '\u0bc2',
