@@ -2,7 +2,8 @@ export const vTranslitTamlScheme = {
   'about': {
     'code': 'Taml',
     'name': 'Tamil',
-    'type': 'brahmic'
+    'type': 'brahmic',
+    'unicodeBlock': '0B80-0BFF'
   },
   'data': {
     'ayogavaha': [
