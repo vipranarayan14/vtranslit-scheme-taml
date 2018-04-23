@@ -84,7 +84,11 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 var vTranslitTamlScheme = exports.vTranslitTamlScheme = {
-  'about': { 'schemeCode': 'Taml', 'schemeName': 'Tamil', 'type': 'brahmic' },
+  'about': {
+    'code': 'Taml',
+    'name': 'Tamil',
+    'type': 'brahmic'
+  },
   'data': {
     'ayogavaha': ['\u0B82', '\u0B83'],
     'consonants': ['\u0B95', '', '', '', '\u0B99', '\u0B9A', '', '\u0B9C', '', '\u0B9E', '\u0B9F', '', '', '', '\u0BA3', '\u0BA4', '', '', '', '\u0BA8', '\u0BA9', '\u0BAA', '', '', '', '\u0BAE', '\u0BAF', '\u0BB0', '\u0BB1', '\u0BB2', '\u0BB3', '\u0BB4', '\u0BB5', '\u0BB6', '\u0BB7', '\u0BB8', '\u0BB9'],
