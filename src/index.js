@@ -1,5 +1,9 @@
 export const vTranslitTamlScheme = {
-  'about': { 'schemeCode': 'Taml', 'schemeName': 'Tamil', 'type': 'brahmic' },
+  'about': {
+    'code': 'Taml',
+    'name': 'Tamil',
+    'type': 'brahmic'
+  },
   'data': {
     'ayogavaha': [
       '\u0b82', '\u0b83'
