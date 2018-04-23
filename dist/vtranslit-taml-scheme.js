@@ -78,7 +78,8 @@ var vTranslitTamlScheme = exports.vTranslitTamlScheme = {
   'about': {
     'code': 'Taml',
     'name': 'Tamil',
-    'type': 'brahmic'
+    'type': 'brahmic',
+    'unicodeBlock': '0B80-0BFF'
   },
   'data': {
     'ayogavaha': ['\u0B82', '\u0B83'],
