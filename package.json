@@ -1,5 +1,5 @@
 {
-  "name": "vtranslit-taml-scheme",
+  "name": "vtranslit-scheme-taml",
   "version": "0.2.0",
   "description": "Tamil scheme for vTranslit.",
   "keywords": [
@@ -7,9 +7,9 @@
     "vtranslit",
     "indic scripts"
   ],
-  "main": "dist/vtranslit-taml-scheme.npm.js",
+  "main": "dist/vtranslit-scheme-taml.npm.js",
   "files": [
-    "dist/vtranslit-taml-scheme.npm.js"
+    "dist/vtranslit-scheme-taml.npm.js"
   ],
   "scripts": {
     "build": "rimraf dist && webpack",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vipranarayan14/vtranslit-taml-scheme.git"
+    "url": "git+https://github.com/vipranarayan14/vtranslit-scheme-taml.git"
   },
   "bugs": {
-    "url": "https://github.com/vipranarayan14/vtranslit-taml-scheme/issues"
+    "url": "https://github.com/vipranarayan14/vtranslit-scheme-taml/issues"
   },
-  "homepage": "https://github.com/vipranarayan14/vtranslit-taml-scheme#readme"
+  "homepage": "https://github.com/vipranarayan14/vtranslit-scheme-taml#readme"
 }

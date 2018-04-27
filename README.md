@@ -1,23 +1,23 @@
-# vTranslit-Taml-scheme
+# vTranslit-scheme-Taml
 
 Kannada scheme for vTranslit.
 
 ## Installation
 
 ```bash
-npm install vtranslit-taml-scheme
+npm install vtranslit-scheme-taml
 ```
 
 ## Node usage
 
 ```js
-const vTranslitTamlScheme = require('vtranslit-taml-scheme');
+const vTranslitTamlScheme = require('vtranslit-scheme-taml');
 ```
 
 ## Browser usage
 
 ```html
-<script src="path/to/vtranslit-taml-scheme.js"></script>
+<script src="path/to/vtranslit-scheme-taml.js"></script>
 ```
 
 ```js

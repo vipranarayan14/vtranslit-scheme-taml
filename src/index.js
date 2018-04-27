@@ -1,4 +1,4 @@
-export const vTranslitTamlScheme = {
+export const vTranslitSchemeTaml = {
   'about': {
     'code': 'Taml',
     'name': 'Tamil',
