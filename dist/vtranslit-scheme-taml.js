@@ -1,4 +1,4 @@
-window["vTranslitTamlScheme"] =
+window["vTranslitSchemeTaml"] =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -74,7 +74,7 @@ window["vTranslitTamlScheme"] =
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var vTranslitTamlScheme = exports.vTranslitTamlScheme = {
+var vTranslitSchemeTaml = exports.vTranslitSchemeTaml = {
   'about': {
     'code': 'Taml',
     'name': 'Tamil',
@@ -92,4 +92,4 @@ var vTranslitTamlScheme = exports.vTranslitTamlScheme = {
 };
 
 /***/ })
-/******/ ])["vTranslitTamlScheme"];
+/******/ ])["vTranslitSchemeTaml"];

@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["vTranslitTamlScheme"] = factory();
+		exports["vTranslitSchemeTaml"] = factory();
 	else
-		root["vTranslitTamlScheme"] = factory();
+		root["vTranslitSchemeTaml"] = factory();
 })(typeof self !== 'undefined' ? self : this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -83,7 +83,7 @@ return /******/ (function(modules) { // webpackBootstrap
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var vTranslitTamlScheme = exports.vTranslitTamlScheme = {
+var vTranslitSchemeTaml = exports.vTranslitSchemeTaml = {
   'about': {
     'code': 'Taml',
     'name': 'Tamil',
@@ -101,5 +101,5 @@ var vTranslitTamlScheme = exports.vTranslitTamlScheme = {
 };
 
 /***/ })
-/******/ ])["vTranslitTamlScheme"];
+/******/ ]);
 });
